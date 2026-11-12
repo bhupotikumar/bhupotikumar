@@ -1,50 +1,25 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="65%" align="left" valign="middle">
-      <h1>Hi, I'm Bhupoti Kumar Roy 👋</h1>
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=E040FB&vCenter=true&width=450&lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems"
-        alt="Typing SVG"
-      />
-      <p>
-        Passionate about building scalable applications,
-        clean architectures, and exceptional user experiences.
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/bhupotikumar">
-          <img
-            src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            height="28"
-            alt="LinkedIn"
-          />
-        </a>
-        <a href="mailto:bhupoti.dev@gmail.com">
-          <img
-            src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-            height="28"
-            alt="Email"
-          />
-        </a>
-        <a href="https://discord.com/users/1257024516778102965">
-          <img
-            src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-            height="28"
-            alt="Discord"
-          />
-        </a>
-      </p>
-    </td>
-<td width="35%" align="center" valign="middle">
-  <table width="180" height="180" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="35%" align="center" valign="middle">
-  <img src="./new-avater.svg" width="180" height="180" alt="Bhupoti Kumar Roy" />
-</td>
-    </tr>
-  </table>
-</td>
-  </tr>
-</table>
+<div align="center">
+
+<div style="display: flex; align-items: center; justify-content: space-between; text-align: left;">
+
+<div style="width: 65%;">
+  <h1>Hi, I'm Bhupoti Kumar Roy 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=E040FB&amp;vCenter=true&amp;width=450&amp;lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems" alt="Typing SVG"/>
+  <p>Passionate about building scalable applications, clean architectures, and exceptional user experiences.</p>
+  <p>
+    <a href="https://linkedin.com/in/bhupotikumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn"/></a>
+    <a href="mailto:bhupoti.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email"/></a>
+    <a href="https://discord.com/users/1257024516778102965"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" height="28" alt="Discord"/></a>
+  </p>
+</div>
+
+<div style="width: 35%; text-align: center;">
+  <img src="./assets/bhupoti.png" width="200" alt="Bhupoti Kumar Roy"/>
+</div>
+
+</div>
+
+</div>
 
 ---
 
