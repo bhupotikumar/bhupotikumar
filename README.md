@@ -1,25 +1,20 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/bhupoti.png" width="180" align="right" alt="Bhupoti Kumar Roy"/>
+</p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; text-align: left;">
+# Hi, I'm Bhupoti Kumar Roy 👋
 
-<div style="width: 65%;">
-  <h1>Hi, I'm Bhupoti Kumar Roy 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=E040FB&amp;vCenter=true&amp;width=450&amp;lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems" alt="Typing SVG"/>
-  <p>Passionate about building scalable applications, clean architectures, and exceptional user experiences.</p>
-  <p>
-    <a href="https://linkedin.com/in/bhupotikumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn"/></a>
-    <a href="mailto:bhupoti.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email"/></a>
-    <a href="https://discord.com/users/1257024516778102965"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" height="28" alt="Discord"/></a>
-  </p>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=E040FB&amp;vCenter=true&amp;width=450&amp;lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems" alt="Typing SVG"/>
 
-<div style="width: 35%; text-align: center;">
-  <img src="./assets/bhupoti.png" width="200" alt="Bhupoti Kumar Roy"/>
-</div>
+Passionate about building scalable applications, clean architectures, and exceptional user experiences.
 
-</div>
+<p>
+  <a href="https://linkedin.com/in/bhupotikumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn"/></a>
+  <a href="mailto:bhupoti.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email"/></a>
+  <a href="https://discord.com/users/1257024516778102965"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" height="28" alt="Discord"/></a>
+</p>
 
-</div>
+<br clear="right"/>
 
 ---
 
