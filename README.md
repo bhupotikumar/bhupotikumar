@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/bhupoti.png" width="180" align="right" alt="Bhupoti Kumar Roy"/>
+  <img src="./assets/bhupoti.png" width="200" align="right" alt="Bhupoti Kumar Roy"/>
 </p>
 
 <h3>
