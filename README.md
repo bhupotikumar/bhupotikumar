@@ -7,7 +7,7 @@
   &nbsp;Hi, I'm Bhupoti Kumar Roy 👋
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=E040FB&amp;vCenter=true&amp;width=450&amp;lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=E040FB&amp;vCenter=true&amp;width=450&amp;lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems" alt="Typing SVG"/>
 
 Passionate about building scalable applications, clean architectures, and exceptional user experiences.
 
