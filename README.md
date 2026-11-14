@@ -1,4 +1,4 @@
-<h1 style="border: none;">
+<h1>
   <img src="./assets/new-avater.svg" width="50" align="absmiddle" alt="Avatar"/>
   &nbsp;
   Hi, I'm Bhupoti Kumar Roy <img src="./assets/hi.svg" width="62" height="62" align="absmiddle" alt="waving hand" />
@@ -16,7 +16,7 @@ Passionate about building scalable applications, clean architectures, and except
 
   &nbsp;
 
-<h2 style="border: none;">👨‍💻 About Me</h2>
+### 👨‍💻 About Me
 <img src="./assets/divider.svg" width="100%" height="4" alt="gradient divider" />
 
 I'm **Bhupoti Kumar Roy**, a Backend-Focused Full-Stack Developer passionate about building scalable, secure, and maintainable web applications.
@@ -27,7 +27,7 @@ My primary focus is backend engineering, where I prioritize clean architecture, 
 
 &nbsp;
 
-<h2 style="border: none;">🧰 Tech Stack & Tools</h2>
+### 🧰 Tech Stack & Tools
 
 <img src="./assets/divider.svg" width="100%" height="4" alt="gradient divider" />
 
