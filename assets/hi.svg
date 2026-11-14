@@ -1,0 +1,53 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2dd4bf" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#e879f9" />
+    </linearGradient>
+
+    <linearGradient id="handGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes waveMotion {
+      0%   { transform: rotate(0deg); }
+      12%  { transform: rotate(18deg); }
+      24%  { transform: rotate(-10deg); }
+      36%  { transform: rotate(18deg); }
+      48%  { transform: rotate(-6deg); }
+      60%  { transform: rotate(12deg); }
+      72%  { transform: rotate(0deg); }
+      100% { transform: rotate(0deg); }
+    }
+
+    @keyframes pulseArc {
+      0%, 100% { opacity: 0.2; transform: scale(0.95); }
+      35%      { opacity: 1; transform: scale(1.06); }
+      70%      { opacity: 0.2; transform: scale(0.95); }
+    }
+
+    .hand-vector {
+      transform-origin: 58px 78px;
+      animation: waveMotion 2.2s ease-in-out infinite;
+    }
+
+    .motion-arc {
+      transform-origin: 50px 50px;
+      animation: pulseArc 2.2s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Scaled Neon Motion Arcs -->
+  <path d="M 18 38 C 18 24, 30 16, 42 16" stroke="url(#ringGrad)" stroke-width="5" stroke-linecap="round" class="motion-arc" />
+  <path d="M 82 62 C 82 76, 70 84, 58 84" stroke="url(#ringGrad)" stroke-width="5" stroke-linecap="round" class="motion-arc" />
+
+  <!-- Fully Scaled Pure Vector Waving Hand -->
+  <g class="hand-vector">
+    <path d="M46 29C46 27 47.7 25 49.8 25C51.8 25 53.5 27 53.5 29V47H55.2V26.2C55.2 24.2 56.9 22.5 59 22.5C61.1 22.5 62.8 24.2 62.8 26.2V49H64.5V31.2C64.5 29.2 66.2 27.5 68.3 27.5C70.4 27.5 72.1 29.2 72.1 31.2V58.5C72.1 68.8 63.8 77.2 53.5 77.2H49.5C42 77.2 35.8 72.5 32.8 65.8L27 53C26.1 51.1 26.9 48.9 28.8 48C30.7 47.1 32.9 47.9 33.8 49.8L38.2 59.5V33.8C38.2 31.8 39.9 30.1 42 30.1C44.1 30.1 45.8 31.8 45.8 33.8V47H46V29Z" fill="url(#handGrad)" stroke="#d97706" stroke-width="2" stroke-linejoin="round" />
+    <path d="M43 59C47 56 54 57 58 60" stroke="#b45309" stroke-width="2.5" stroke-linecap="round" opacity="0.6" />
+  </g>
+</svg>

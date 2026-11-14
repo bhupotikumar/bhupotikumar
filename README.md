@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="./assets/bhupoti.png" width="180" align="right" alt="Bhupoti Kumar Roy"/>
-</p>
-
-<h3>
+&nbsp;
+<h1 style="border: none;">
   <img src="./assets/new-avater.svg" width="50" align="absmiddle" alt="Avatar"/>
-  &nbsp;Hi, I'm Bhupoti Kumar Roy 👋
-</h3>
+  &nbsp;
+  Hi, I'm Bhupoti Kumar Roy <img src="./assets/hi.svg" width="62" height="62" align="absmiddle" alt="waving hand" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=E040FB&amp;vCenter=true&amp;width=450&amp;lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=1000&amp;color=E040FB&amp;vCenter=true&amp;width=600&amp;lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Web+Applications;Engineering+Reliable+Backend+Systems" alt="Typing SVG"/>
 
 Passionate about building scalable applications, clean architectures, and exceptional user experiences.
 
@@ -19,9 +17,9 @@ Passionate about building scalable applications, clean architectures, and except
 
 <br clear="right"/>
 
----
+### 👨‍💻 About Me
 
-## 👨‍💻 About Me
+<img src="./assets/divider.svg" width="100%" height="4" alt="gradient divider" />
 
 I'm **Bhupoti Kumar Roy**, a Backend-Focused Full-Stack Developer passionate about building scalable, secure, and maintainable web applications.
 
@@ -29,9 +27,11 @@ I enjoy working across the entire development lifecycle, from designing backend 
 
 My primary focus is backend engineering, where I prioritize clean architecture, data integrity, security, performance, and long-term maintainability.
 
----
+&nbsp;
 
-## 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Tools
+
+<img src="./assets/divider.svg" width="100%" height="4" alt="gradient divider" />
 
 ### Languages
 
@@ -105,9 +105,10 @@ My primary focus is backend engineering, where I prioritize clean architecture, 
   <img src="./icons/Illustrator.svg" height="50" alt="illustrator logo"  />
 </div>
 
----
-
+<img src="./assets/divider.svg" width="100%" height="4" alt="gradient divider" />
 <div align="center">
+
+&nbsp;
 
 ![](https://github-readme-stats.shion.dev/api?username=bhupotikumar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
