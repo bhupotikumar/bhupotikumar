@@ -1,4 +1,3 @@
-&nbsp;
 <h1 style="border: none;">
   <img src="./assets/new-avater.svg" width="50" align="absmiddle" alt="Avatar"/>
   &nbsp;
@@ -15,10 +14,9 @@ Passionate about building scalable applications, clean architectures, and except
   <a href="https://discord.com/users/1257024516778102965"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" height="28" alt="Discord"/></a>
 </p>
 
-<br clear="right"/>
+  &nbsp;
 
-### 👨‍💻 About Me
-
+<h2 style="border: none;">👨‍💻 About Me</h2>
 <img src="./assets/divider.svg" width="100%" height="4" alt="gradient divider" />
 
 I'm **Bhupoti Kumar Roy**, a Backend-Focused Full-Stack Developer passionate about building scalable, secure, and maintainable web applications.
@@ -29,7 +27,7 @@ My primary focus is backend engineering, where I prioritize clean architecture, 
 
 &nbsp;
 
-### 🧰 Tech Stack & Tools
+<h2 style="border: none;">🧰 Tech Stack & Tools</h2>
 
 <img src="./assets/divider.svg" width="100%" height="4" alt="gradient divider" />
 
